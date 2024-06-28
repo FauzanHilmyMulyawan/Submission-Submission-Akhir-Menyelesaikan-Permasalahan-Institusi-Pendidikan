@@ -9,6 +9,7 @@ Original file is located at
 
 import pickle
 import streamlit as st
+import scikit-learn
 
 student_model = pickle.load(open('student_model.pkl', 'rb'))
 
