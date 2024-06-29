@@ -7,9 +7,11 @@ Institut Jaya Jaya, sebuah institusi pendidikan yang didirikan pada tahun 2000, 
 Untuk mengatasi masalah ini, Institut Jaya Jaya bertujuan untuk mengidentifikasi siswa yang berisiko mengalami dropout sedini mungkin agar mereka dapat diberikan bimbingan dan dukungan khusus. Mereka telah menyediakan dataset kinerja siswa dan meminta pembuatan dashboard untuk membantu memahami dan memonitor kinerja siswa dengan mudah.
 
 ## Permasalahan Bisnis
-1. Tingginya Tingkat Dropout: Masalah bisnis utama adalah tingginya tingkat dropout di kalangan siswa. Masalah ini perlu diatasi untuk menjaga reputasi institut dan memastikan siswa menyelesaikan pendidikan mereka dengan baik.
-2. Deteksi Dini Siswa Berisiko: Institut membutuhkan sistem untuk mengidentifikasi siswa yang berisiko mengalami dropout sedini mungkin. Deteksi dini memungkinkan intervensi dan dukungan tepat waktu bagi siswa-siswa tersebut.
-3. Pemantauan Kinerja Siswa: Diperlukan dashboard yang mudah dipahami untuk membantu staf institut memantau kinerja siswa dan mengidentifikasi tren atau pola yang mungkin mengindikasikan risiko dropout.
+1. Tingginya Tingkat Dropout: Masalah bisnis utama adalah tingginya tingkat dropout di kalangan siswa. Jumlah siswa yang tidak menyelesaikan pendidikan mereka ini mempengaruhi reputasi institut dan berdampak negatif pada masa depan para siswa yang dropout.
+
+2. Kurangnya Sistem Deteksi Dini: Institut Jaya Jaya tidak memiliki cara yang efektif untuk mendeteksi siswa yang berisiko mengalami dropout. Tanpa sistem deteksi dini, sulit bagi institut untuk memberikan intervensi tepat waktu yang dapat mencegah siswa dari dropout.
+
+3. Pemantauan Kinerja Siswa yang Tidak Efektif: Institut juga menghadapi kesulitan dalam memantau kinerja siswa secara menyeluruh. Tanpa alat pemantauan yang efisien, staf institut kesulitan mengidentifikasi tren atau pola yang mungkin mengindikasikan risiko dropout, sehingga tidak dapat mengambil tindakan preventif yang diperlukan.
 
 ## Cakupan Proyek
 
